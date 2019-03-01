@@ -1,2 +1,2 @@
 # react-old-maid
-old-maid with react.js
+old-maid with react.js (now making)
